@@ -1,5 +1,0 @@
-Hello world
-THis is my first commit here
-beans
-pizza
-hi hellow
